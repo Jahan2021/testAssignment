@@ -8,7 +8,7 @@ public class AppDriver {
 		// This is the starting point of the project!
 		// hint - It usually calls method from GameManager class to start the app, so only one or two lines will be written here
 		System.out.println("Test Git");
-		System.out.println("Test Git2");
+		System.out.println("Test Git5");
 	}
 
 }
